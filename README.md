@@ -4,7 +4,7 @@
 
 An AI-powered fitness accountability dashboard that helps users track nutrition, workouts, and progress while receiving personalized coaching from a local large language model.
 
-Live Demo: https://YOUR-APP-LINK.streamlit.app
+Live Demo: (https://fittrack-ai-advita.streamlit.app/)
 
 AI-powered fitness and nutrition tracking application built with Python and Streamlit.
 
